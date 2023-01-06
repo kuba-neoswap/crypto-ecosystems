@@ -29,6 +29,7 @@ github_organizations = [
   "https://github.com/runkod",
   "https://github.com/SpringRole",
   "https://github.com/StackedSats",
+  "https://github.com/neoswap-ai"
 ]
 
 # Repositories
@@ -2354,6 +2355,9 @@ url = "https://github.com/naresh-golla/mystack"
 
 [[repo]]
 url = "https://github.com/nelonoel/bye.link"
+
+[[repo]]
+url = "https://github.com/neoswap-ai/multiway-swap-js"
 
 [[repo]]
 url = "https://github.com/nerdic-coder/block-photos"
